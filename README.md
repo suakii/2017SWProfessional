@@ -5,12 +5,12 @@ You are the best of the best.
 
 ### 목차
   #### Chapter1_OOP
-    * C1_bouncingball_novectors
-    * C2_bouncingball_vectors
-    * C3_car_nonoop
-    * C4_car_oop
-    * C5_SimpleGame
-    * C6_forces
+   * C1_bouncingball_novectors
+   * C2_bouncingball_vectors
+   * C3_car_nonoop
+   * C4_car_oop
+   * C5_SimpleGame
+   * C6_forces
     
     
   2. Chapter2_Math
@@ -20,3 +20,6 @@ You are the best of the best.
   6. Chapter6_Earth
   7. Chapter7_Informatics
   
+#### subscribed topic
+ * /usb_cam/image_raw/compressed(sensor_msgs/CompressedImage)
+ * /usb_cam/image_raw(sensor_msgs/Image)
