@@ -46,23 +46,12 @@ void draw() {
   background(255);
   for (int i = 0; i < towers.length; i++) {
     towers[i].display();
-    //println(towers[i].name);
   }
   
   disk1.display();
   disk2.display();
-  //disk3.display();
-  //disk4.display();
   disk5.display();
-    
-    //if (i == moves.size()) {
-    //  fill(0, 0, 0);
-    //  textSize(50);
-    //  text("2^3 -1 = 7",50,50);
-    //  noLoop();
-      
-    //}
-
+ 
 }
 boolean isClick = false;
 void mouseClicked() {
@@ -75,10 +64,8 @@ void mouseClicked() {
 
 
 void move(Tower from, Tower to) {
-
-  Disk mover = (Disk)from.disks.pop();
+ Disk mover = (Disk)from.disks.pop();
   to.disks.push(mover);
-  
   mover.moving = 1;
   mover.moveFrom = from;
   mover.moveTo = to;
