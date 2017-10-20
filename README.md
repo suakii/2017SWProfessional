@@ -5,7 +5,7 @@ You are the best of the best.
 
 #### Chapter1_OOP
  * [C1_bouncingball_novectors](https://github.com/suakii/2017SWProfessional/tree/master/Chapter1_OOP/C1_bouncingball_novectors)
- <p align="center">
+ <p align="left">
  <img src ="https://github.com/suakii/2017SWProfessional/blob/master/Chapter1_OOP/C1_bouncingball_novectors/c1.png" width="50%" height="50%"/>
 </p>
  * [C2_bouncingball_vectors](https://github.com/suakii/2017SWProfessional/tree/master/Chapter1_OOP/C2_bouncingball_vectors)
