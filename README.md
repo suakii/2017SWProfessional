@@ -11,7 +11,9 @@ You are the best of the best.
 * [C5_SimpleGame](https://github.com/suakii/2017SWProfessional/tree/master/Chapter1_OOP/C5_SimpleGame)
 * [C6_forces](https://github.com/suakii/2017SWProfessional/tree/master/Chapter1_OOP/C6_forces)
 #### Chapter2_Math
-
+* [C2_1_PegTest](https://github.com/suakii/2017SWProfessional/tree/master/Chapter2_Math/C2_1_PegTest)
+* [C2_2_PegTest_Boundary](https://github.com/suakii/2017SWProfessional/tree/master/Chapter2_Math/C2_2_PegTest_Boundary)
+* [C2_3_PegTest_Boundary_Ball](https://github.com/suakii/2017SWProfessional/tree/master/Chapter2_Math/C2_3_PegTest_Boundary_Ball)
 
 
 #### Chapter3_Physics
